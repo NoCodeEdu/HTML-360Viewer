@@ -99,4 +99,7 @@ README.md        ← this file
 
 ## License
 
-MIT — do whatever you want with it.
+Free for personal and non-commercial use under the
+PolyForm Noncommercial 1.0.0 licence.
+Commercial use requires a separate written agreement.
+Copyright © nocodeedu
