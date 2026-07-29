@@ -4,7 +4,6 @@ A standalone, single-file 360° panorama viewer built with Three.js. No server, 
 
 ---
 ## Example: https://nocodeedu.github.io/HTML-360Viewer/360viewer.html 
-(in app demo image button doesn't work)
 
 ---
 
